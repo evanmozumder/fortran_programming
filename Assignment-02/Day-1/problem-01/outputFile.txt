@@ -1,0 +1,4 @@
+Roots are Imaginary
+Roots are: 
+X1 =   -0.12500 + (   0.56366)i
+X2 =   -0.12500 + (  -0.56366)i

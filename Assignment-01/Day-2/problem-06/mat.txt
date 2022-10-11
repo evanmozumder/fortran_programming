@@ -1,0 +1,5 @@
+Sides are: 
+A:      13.00
+B:       3.00
+C:       5.00
+Not a triangle

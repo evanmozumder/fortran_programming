@@ -1,0 +1,5 @@
+Roots are Complex
+Complex Roots Are: 
+X1 =     -0.12500 + i     0.69597
+X2 =     -0.12500 + i     -0.69597
+

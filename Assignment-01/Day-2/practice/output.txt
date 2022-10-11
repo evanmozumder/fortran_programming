@@ -1,0 +1,4 @@
+triangle
+not equilateral
+not isosceles
+not right-triangle
